@@ -21,16 +21,19 @@ export const NAV_LINKS = [
 
 // Image Assets (from public/img)
 export const IMAGES = {
-  HERO_BG: "/img/2024-08-06.webp", 
-  ABOUT_TRUCK: "/img/2024-02-23.webp",
-  SERVICE_CAR: "/img/2023-12-07.webp", 
-  SERVICE_ACCIDENT: "/img/2023-07-27.webp",
-  SERVICE_MACHINERY: "/img/2022-09-20.webp", 
-  SERVICE_BIKE: "/img/2022-01-26.webp", 
-  SERVICE_LONG_DISTANCE: "/img/2024-08-06.webp", 
-  SERVICE_ROADSIDE: "/img/2023-07-27.webp", 
-  SERVICE_TRANSPORT: "/img/2023-12-07.webp" 
+  HERO_BG: "./img/2024-08-06.webp", 
+  ABOUT_TRUCK: "./img/2024-02-23.webp",
+  SERVICE_CAR: "./img/2023-12-07.webp", 
+  SERVICE_ACCIDENT: "./img/2023-07-27.webp",
+  SERVICE_MACHINERY: "./img/2022-09-20.webp", 
+  SERVICE_BIKE: "./img/2022-01-26.webp", 
+  SERVICE_LONG_DISTANCE: "./img/2024-08-06.webp", 
+  SERVICE_ROADSIDE: "./img/2023-07-27.webp", 
+  SERVICE_TRANSPORT: "./img/2023-12-07.webp" 
 };
+// /img/2024-08-06.webp
+
+
 
 // Services
 export const SERVICES = [
